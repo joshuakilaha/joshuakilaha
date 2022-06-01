@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![wakatime](https://wakatime.com/badge/user/eea16d70-a1c2-4c29-8851-ed4cafb802aa.svg)](https://wakatime.com/@eea16d70-a1c2-4c29-8851-ed4cafb802aa)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
