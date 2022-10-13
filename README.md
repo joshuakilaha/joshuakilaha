@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <details>
 <summary><img alt="swift-logo" src="https://www.logolynx.com/images/logolynx/61/613bae3100d3a39b1cdb21c08694cefc.png" width="20px"></img><b> Projects</b></summary>
-<p align="center">
+<p align="left">
   <a href="https://github.com/joshuakilaha/Mafunzo-Loop">
      <a href="url"><img src=https://user-images.githubusercontent.com/33428918/193568114-8cec99f0-4edb-4db5-b627-7239b2fd66bb.png height="300"  ></a>
      <a href="url"><img src=https://user-images.githubusercontent.com/33428918/193568128-584f6aef-2875-4820-8c10-b6babb23068a.png height="300"  ></a>
-     <a href="url"><img src=https://user-images.githubusercontent.com/33428918/193568155-000b6525-2ea6-425b-a3b9-ed634170264d.png  height="300" ></a>
+     <a href="url"><img src=https://user-images.githubusercontent.com/33428918/193568155-000b6525-2ea6-425b-a3b9-ed634170264d.png height="300" ></a>
   </a>
   
  <a href="https://github.com/joshuakilaha/ghala-ios">
