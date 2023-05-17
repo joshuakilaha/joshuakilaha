@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a passionate iOS Developer 
+### Hi there 👋 I'm a passionate Developer 
 
 <!--
 **joshuakilaha/joshuakilaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
